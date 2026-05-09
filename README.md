@@ -31,30 +31,7 @@ Visualized docked complex using PyMOL.
 Analyzed hydrogen bonds and hydrophobic interactions.
 Identified important interacting residues.
 Results
-Docking Score
+Docking Score -7.47
 Parameter	Value
-Best Binding Affinity	Insert your value here (e.g. -7.5 kcal/mol)
-Key Interacting Residues
 
-Example:
 
-ASP-45
-SER-102
-LYS-67
-TYR-89
-
-Replace with your actual interacting residues.
-
-Sample Figures
-Protein Structure
-
-Add protein structure image here.
-
-/images/protein_structure.png
-Docked Complex
-
-Add docking complex visualization here.
-
-/images/docked_complex.png
-
-Add 2D interaction image here.
